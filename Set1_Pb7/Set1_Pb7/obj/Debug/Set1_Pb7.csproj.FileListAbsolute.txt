@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\bin\Debug\Set1_Pb7.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\bin\Debug\Set1_Pb7.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\bin\Debug\Set1_Pb7.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\obj\Debug\Set1_Pb7.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\obj\Debug\Set1_Pb7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\obj\Debug\Set1_Pb7.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb7\Set1_Pb7\obj\Debug\Set1_Pb7.pdb
