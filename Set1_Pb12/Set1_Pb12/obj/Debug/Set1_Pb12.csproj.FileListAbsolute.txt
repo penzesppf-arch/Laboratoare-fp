@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\bin\Debug\Set1_Pb12.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\bin\Debug\Set1_Pb12.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\bin\Debug\Set1_Pb12.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\obj\Debug\Set1_Pb12.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\obj\Debug\Set1_Pb12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\obj\Debug\Set1_Pb12.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb12\Set1_Pb12\obj\Debug\Set1_Pb12.pdb
