@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\bin\Debug\Set1_Pb11.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\bin\Debug\Set1_Pb11.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\bin\Debug\Set1_Pb11.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\obj\Debug\Set1_Pb11.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\obj\Debug\Set1_Pb11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\obj\Debug\Set1_Pb11.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1_Pb11\Set1_Pb11\obj\Debug\Set1_Pb11.pdb
