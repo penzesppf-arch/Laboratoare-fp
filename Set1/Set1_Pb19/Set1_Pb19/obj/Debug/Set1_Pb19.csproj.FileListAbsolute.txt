@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\bin\Debug\Set1_Pb19.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\bin\Debug\Set1_Pb19.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\bin\Debug\Set1_Pb19.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\obj\Debug\Set1_Pb19.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\obj\Debug\Set1_Pb19.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\obj\Debug\Set1_Pb19.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb19\Set1_Pb19\obj\Debug\Set1_Pb19.pdb
