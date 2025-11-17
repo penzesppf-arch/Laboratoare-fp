@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\bin\Debug\Set1_Pb20.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\bin\Debug\Set1_Pb20.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\bin\Debug\Set1_Pb20.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\obj\Debug\Set1_Pb20.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\obj\Debug\Set1_Pb20.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\obj\Debug\Set1_Pb20.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set1\Set1_Pb20\Set1_Pb20\obj\Debug\Set1_Pb20.pdb
