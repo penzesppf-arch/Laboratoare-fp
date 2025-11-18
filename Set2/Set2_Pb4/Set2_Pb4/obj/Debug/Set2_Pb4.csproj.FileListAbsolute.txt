@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\bin\Debug\Set2_Pb4.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\bin\Debug\Set2_Pb4.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\bin\Debug\Set2_Pb4.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\obj\Debug\Set2_Pb4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\obj\Debug\Set2_Pb4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\obj\Debug\Set2_Pb4.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb4\Set2_Pb4\obj\Debug\Set2_Pb4.pdb
