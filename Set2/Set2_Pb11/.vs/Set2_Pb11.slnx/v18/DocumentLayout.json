@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set2\\Set2_Pb11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7FC640-C6F4-4F6C-BD66-72C28817A349}|Set2_Pb11\\Set2_Pb11.csproj|c:\\users\\admin\\desktop\\laboratoare-fp\\set2\\set2_pb11\\set2_pb11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7FC640-C6F4-4F6C-BD66-72C28817A349}|Set2_Pb11\\Set2_Pb11.csproj|solutionrelative:set2_pb11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set2\\Set2_Pb11\\Set2_Pb11\\Program.cs",
+              "RelativeDocumentMoniker": "Set2_Pb11\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set2\\Set2_Pb11\\Set2_Pb11\\Program.cs",
+              "RelativeToolTip": "Set2_Pb11\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:46:19.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
