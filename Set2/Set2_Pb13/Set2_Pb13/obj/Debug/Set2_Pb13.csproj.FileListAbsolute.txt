@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\bin\Debug\Set2_Pb13.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\bin\Debug\Set2_Pb13.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\bin\Debug\Set2_Pb13.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\obj\Debug\Set2_Pb13.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\obj\Debug\Set2_Pb13.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\obj\Debug\Set2_Pb13.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set2\Set2_Pb13\Set2_Pb13\obj\Debug\Set2_Pb13.pdb
