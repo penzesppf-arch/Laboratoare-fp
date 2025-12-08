@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\obj\Debug\Set3_Pb3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\obj\Debug\Set3_Pb3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\bin\Debug\Set3_Pb3.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\bin\Debug\Set3_Pb3.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\bin\Debug\Set3_Pb3.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\obj\Debug\Set3_Pb3.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb3\Set3_Pb3\obj\Debug\Set3_Pb3.pdb
