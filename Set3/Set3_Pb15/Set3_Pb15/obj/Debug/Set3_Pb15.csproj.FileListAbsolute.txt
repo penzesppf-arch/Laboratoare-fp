@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\bin\Debug\Set3_Pb15.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\bin\Debug\Set3_Pb15.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\bin\Debug\Set3_Pb15.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\obj\Debug\Set3_Pb15.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\obj\Debug\Set3_Pb15.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\obj\Debug\Set3_Pb15.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb15\Set3_Pb15\obj\Debug\Set3_Pb15.pdb
