@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set3\\Set3_Pb12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA6110B-02CE-4C01-BD72-D189A20670A6}|Set3_Pb12\\Set3_Pb12.csproj|c:\\users\\admin\\desktop\\laboratoare-fp\\set3\\set3_pb12\\set3_pb12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA6110B-02CE-4C01-BD72-D189A20670A6}|Set3_Pb12\\Set3_Pb12.csproj|solutionrelative:set3_pb12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set3\\Set3_Pb12\\Set3_Pb12\\Program.cs",
+              "RelativeDocumentMoniker": "Set3_Pb12\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Laboratoare-fp\\Set3\\Set3_Pb12\\Set3_Pb12\\Program.cs",
+              "RelativeToolTip": "Set3_Pb12\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:56:00.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
