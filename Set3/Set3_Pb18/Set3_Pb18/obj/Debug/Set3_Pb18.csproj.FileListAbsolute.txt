@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\bin\Debug\Set3_Pb18.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\bin\Debug\Set3_Pb18.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\bin\Debug\Set3_Pb18.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\obj\Debug\Set3_Pb18.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\obj\Debug\Set3_Pb18.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\obj\Debug\Set3_Pb18.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb18\Set3_Pb18\obj\Debug\Set3_Pb18.pdb
