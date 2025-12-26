@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\bin\Debug\Set3_Pb27.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\bin\Debug\Set3_Pb27.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\bin\Debug\Set3_Pb27.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\obj\Debug\Set3_Pb27.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\obj\Debug\Set3_Pb27.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\obj\Debug\Set3_Pb27.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb27\Set3_Pb27\obj\Debug\Set3_Pb27.pdb
