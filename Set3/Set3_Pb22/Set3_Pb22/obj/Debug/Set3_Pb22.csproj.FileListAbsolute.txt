@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\bin\Debug\Set3_Pb22.exe.config
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\bin\Debug\Set3_Pb22.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\bin\Debug\Set3_Pb22.pdb
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\obj\Debug\Set3_Pb22.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\obj\Debug\Set3_Pb22.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\obj\Debug\Set3_Pb22.exe
+C:\Users\admin\Desktop\Laboratoare-fp\Set3\Set3_Pb22\Set3_Pb22\obj\Debug\Set3_Pb22.pdb
